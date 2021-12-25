@@ -2,4 +2,19 @@
 The excellent image retrieval papers
 
 #Use PPT to manage the papers  
-We read hundreds papers when doing research; we save the pdf, mark the important sentences and make notes. But if we can not find the paper and the notes quickly when we need them, they are just wasting our time. I tried several ways to manage the read papers, and I found PPT is the most efficient way. It has the following benefits:   
+We spend a lot time on reading papers when doing research. But it is useless if we can not find the right read paper quickly when we need it. I tried several ways to manage the read papers and found PPT is very efficient. It has the following benefits:  
+
+PPT makes me happy. So I can keep thinking.   
+
+I can search the target paper quickly from slides than from pure literal titles. 
+
+The figure helps me recall the main message of a paper quickly.  
+
+Enough space to add the notes and external links freely.  
+
+Better interacting experience + easy to re-clustering the papers.  
+
+
+
+
+
