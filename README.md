@@ -2,6 +2,9 @@
 The excellent image retrieval papers (keep updating)： https://docs.google.com/presentation/d/1mXFJM2K9ATclfpRHNEuP3DsXZfJvVz_3ENuSjNRfOFU/edit?usp=sharing
 
 # Use PPT to manage the read papers  
+
+Have you ever found yourself needing to locate a previously read paper from an extensive summary list, only to be met with multiple papers bearing similar or confusing titles? This often necessitates opening each document individually to verify its content and confirm whether it is the exact paper you were seeking. Such a task can be incredibly time-consuming and frustrating.
+
 Research often involves the reading and comprehension of numerous academic papers. However, the value of this process diminishes if we're unable to efficiently retrieve the relevant paper when required. I have explored various strategies to manage these read papers and have discovered that using PowerPoint presentations (PPT) offers several advantages:
 
 * Enhances Intellectual Stimulation: The utilization of PPT invigorates my enthusiasm and creativity, fostering a conducive environment for continuous thinking and idea generation.
