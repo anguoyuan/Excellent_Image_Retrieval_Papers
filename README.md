@@ -1,18 +1,24 @@
 # Excellent_IR_Papers
-The excellent image retrieval papers
+The excellent image retrieval papers： https://docs.google.com/presentation/d/1mXFJM2K9ATclfpRHNEuP3DsXZfJvVz_3ENuSjNRfOFU/edit?usp=sharing
 
 # Use PPT to manage the read papers  
-We spend a lot time on reading papers when doing research. But it is useless if we can not find the right read paper quickly when we need it. I tried several ways to manage the read papers and found PPT is very efficient. It has the following benefits:  
+Research often involves the reading and comprehension of numerous academic papers. However, the value of this process diminishes if we're unable to efficiently retrieve the relevant paper when required. I have explored various strategies to manage these read papers and have discovered that using PowerPoint presentations (PPT) offers several advantages:
 
-PPT makes me happy. So I can keep thinking.   
+* Enhances Intellectual Stimulation: The utilization of PPT invigorates my enthusiasm and creativity, fostering a conducive environment for continuous thinking and idea generation.
 
-I can search the target paper quickly from slides than from pure literal titles or keywords. 
+* Facilitates Swift Paper Retrieval: The ability to search for specific papers is significantly improved within slides, as compared to sifting through titles or keywords in a text-based format.
 
-The figure helps me recall the main message of a paper quickly.  
+* Promotes Quick Recall of Key Concepts: Visual aids, such as diagrams or figures within slides, greatly assist in the swift recollection of the main points or findings of a paper.
 
-Enough space to add the notes and external links freely.  
+* Ample Space for Annotations and Hyperlinks: PPT provides sufficient room to include personal notes and external references freely, thereby enhancing the overall understanding and connectivity of the research.
 
-Better interacting experience + easy to re-clustering the papers.  
+* Improves User Interaction and Paper Organization: PPT delivers a superior user experience and offers an efficient way to categorize and re-cluster papers, making the entire process more engaging and systematic.
+
+
+
+
+
+
 
 
 
